@@ -1,0 +1,9 @@
+import integral_geometry_differential_forms_currents_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace integral_geometry_differential_forms_currents_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end integral_geometry_differential_forms_currents_lemma_canonical_lane_mathlib
+end HautevilleHouse
